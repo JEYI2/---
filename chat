@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dialogflow Chatbot</title>
+</head>
+<body>
+    <iframe src="https://bot.dialogflow.com/c3a1049c-a589-40d5-ae45-5478d6d1e786" width="100%" height="100%" style="border:none;"></iframe>
+</body>
+</html>
